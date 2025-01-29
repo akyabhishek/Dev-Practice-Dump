@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite parallel="tests" name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" parallel="tests" name="FirefoxTest(failed)">
+    <parameter name="broswer" value="Firefox"/>
+    <classes>
+      <class name="com.minipro.alerts.HandleAlerts">
+        <methods>
+          <include name="closingFunc"/>
+          <include name="checkAlerts"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.minipro.alerts.HandleAlerts -->
+    </classes>
+  </test> <!-- FirefoxTest(failed) -->
+</suite> <!-- Failed suite [Suite] -->

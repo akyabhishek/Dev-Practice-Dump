@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 4 elements to &apos;DataDrivenFramework/src/test/resources/drivers&apos;&#x0D;&#x0A;- Original project: &apos;FirstSeleniumTest01&apos;&#x0D;&#x0A;- Destination element: &apos;DataDrivenFramework/src/test/resources/drivers&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     sha512_sum&#x0D;&#x0A;     geckodriver.exe&#x0D;&#x0A;     chromedriver.exe&#x0D;&#x0A;     operadriver.exe" description="Copy files" destination="=DataDrivenFramework/src\/test\/resources&lt;drivers" element1="drivers/sha512_sum" element2="drivers/geckodriver.exe" element3="drivers/chromedriver.exe" element4="drivers/operadriver.exe" files="4" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1672116945528" units="0" version="1.0"/>
+</session>

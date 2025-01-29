@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Test-Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="ChromeTest(failed)">
+    <parameter name="broswer" value="Chrome"/>
+    <classes>
+      <class name="com.minipro.alerts.HandleAlerts">
+        <methods>
+          <include name="f"/>
+          <include name="checkAlerts"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.minipro.alerts.HandleAlerts -->
+    </classes>
+  </test> <!-- ChromeTest(failed) -->
+</suite> <!-- Failed suite [Test-Suite] -->

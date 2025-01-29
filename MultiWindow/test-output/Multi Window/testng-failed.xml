@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Multi Window]" guice-stage="DEVELOPMENT">
+  <parameter name="browser" value="chrome"/>
+  <test thread-count="5" name="Multi Window Test(failed)">
+    <classes>
+      <class name="com.project.multiwindow.MultipleWindowTest">
+        <methods>
+          <include name="handleMultiWindow"/>
+          <include name="OpenBrowser"/>
+          <include name="CloseBrowser"/>
+        </methods>
+      </class> <!-- com.project.multiwindow.MultipleWindowTest -->
+    </classes>
+  </test> <!-- Multi Window Test(failed) -->
+</suite> <!-- Failed suite [Multi Window] -->

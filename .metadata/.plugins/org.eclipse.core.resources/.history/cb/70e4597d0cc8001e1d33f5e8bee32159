@@ -1,0 +1,8 @@
+package com.spring.Framework;
+
+public class HindiRemover {
+	public static void main(String[] args) {
+		
+	}
+
+}

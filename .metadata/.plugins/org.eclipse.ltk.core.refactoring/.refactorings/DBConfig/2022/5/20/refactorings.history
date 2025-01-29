@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Encapsulate field &apos;com.spring.app.EmployeeDAO.dbConfig&apos; in &apos;com.spring.app.EmployeeDAO&apos;&#x0D;&#x0A;- Original project: &apos;DBConfig&apos;&#x0D;&#x0A;- Original element: &apos;com.spring.app.EmployeeDAO.dbConfig&apos;&#x0D;&#x0A;- Getter method name: &apos;getDbConfig&apos;&#x0D;&#x0A;- Setter method name: &apos;setDbConfig&apos;&#x0D;&#x0A;- Field visibility: &apos;public&apos;&#x0D;&#x0A;- Use getter and setter methods in declaring type" comments="false" declaring="true" description="Encapsulate field &apos;dbConfig&apos;" flags="589830" getter="getDbConfig" id="org.eclipse.jdt.ui.self.encapsulate" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.spring.app{EmployeeDAO.java[EmployeeDAO^dbConfig" insertion="-1" setter="setDbConfig" stamp="1652464772399" version="1.0" visibility="1"/>
+</session>

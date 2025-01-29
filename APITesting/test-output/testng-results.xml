@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-19T22:12:24 IST" name="Default suite" finished-at="2023-06-19T22:12:27 IST" duration-ms="2976">
+    <groups>
+    </groups>
+    <test started-at="2023-06-19T22:12:24 IST" name="Default test" finished-at="2023-06-19T22:12:27 IST" duration-ms="2976">
+      <class name="FetchURL">
+        <test-method signature="fetchGetRequest()[pri:0, instance:FetchURL@6d2a209c]" started-at="2023-06-19T22:12:24 IST" name="fetchGetRequest" finished-at="2023-06-19T22:12:27 IST" duration-ms="2923" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fetchGetRequest -->
+      </class> <!-- FetchURL -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

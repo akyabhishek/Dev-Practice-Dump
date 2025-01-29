@@ -1,0 +1,17 @@
+0:0:0:0:0:0:0:1 - - [11/May/2022:07:57:56 +0530] "GET / HTTP/1.1" 200 352 http-bio-8080-exec-1 830
+0:0:0:0:0:0:0:1 - - [11/May/2022:07:57:56 +0530] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8080-exec-3 3
+0:0:0:0:0:0:0:1 - - [11/May/2022:07:57:58 +0530] "POST /spring-mvc/login HTTP/1.1" 200 171 http-bio-8080-exec-4 93
+0:0:0:0:0:0:0:1 - - [11/May/2022:07:58:02 +0530] "POST /spring-mvc/login HTTP/1.1" 200 371 http-bio-8080-exec-5 6
+0:0:0:0:0:0:0:1 - - [11/May/2022:07:58:05 +0530] "POST /spring-mvc/login HTTP/1.1" 200 371 http-bio-8080-exec-6 5
+0:0:0:0:0:0:0:1 - - [11/May/2022:07:58:07 +0530] "GET /spring-mvc/login HTTP/1.1" 200 352 http-bio-8080-exec-7 4
+0:0:0:0:0:0:0:1 - - [11/May/2022:08:06:08 +0530] "GET /spring-mvc/login HTTP/1.1" 200 352 http-bio-8080-exec-2 273
+0:0:0:0:0:0:0:1 - - [11/May/2022:08:06:17 +0530] "POST /spring-mvc/login HTTP/1.1" 200 171 http-bio-8080-exec-4 59
+0:0:0:0:0:0:0:1 - - [11/May/2022:08:06:20 +0530] "GET /spring-mvc/login HTTP/1.1" 200 352 http-bio-8080-exec-5 4
+0:0:0:0:0:0:0:1 - - [11/May/2022:08:25:30 +0530] "GET /spring-mvc/login HTTP/1.1" 404 949 http-bio-8080-exec-7 3
+0:0:0:0:0:0:0:1 - - [11/May/2022:08:26:08 +0530] "GET /spring-mvc/login HTTP/1.1" 200 352 http-bio-8080-exec-1 79
+0:0:0:0:0:0:0:1 - - [11/May/2022:08:26:14 +0530] "GET /spring-mvc/list-todos HTTP/1.1" 200 157 http-bio-8080-exec-3 588
+0:0:0:0:0:0:0:1 - - [11/May/2022:08:26:45 +0530] "GET /spring-mvc/list-todos HTTP/1.1" 200 157 http-bio-8080-exec-4 3
+0:0:0:0:0:0:0:1 - - [11/May/2022:08:26:47 +0530] "GET /spring-mvc/list-todos HTTP/1.1" 200 157 http-bio-8080-exec-5 2
+0:0:0:0:0:0:0:1 - - [11/May/2022:08:27:03 +0530] "GET /spring-mvc/list-todos HTTP/1.1" 200 153 http-bio-8080-exec-1 747
+0:0:0:0:0:0:0:1 - - [11/May/2022:08:27:52 +0530] "GET /spring-mvc/list-todos HTTP/1.1" 200 153 http-bio-8080-exec-3 3
+0:0:0:0:0:0:0:1 - - [11/May/2022:08:28:18 +0530] "GET /spring-mvc/list-todos HTTP/1.1" 200 506 http-bio-8080-exec-1 97

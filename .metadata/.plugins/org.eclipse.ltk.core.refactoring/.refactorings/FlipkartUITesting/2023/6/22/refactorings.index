@@ -1,0 +1,17 @@
+1685608714063	Rename package 'com.automation.Flipkart'
+1685608724790	Rename package 'TestClasses'
+1685608737700	Rename package 'Base'
+1685608784114	Delete element
+1685609650168	Rename type 'FlipkartApplication'
+1685609711408	Rename type 'BaseFunctions'
+1685610690855	Delete element
+1685700932647	Delete elements
+1685701659467	Delete elements
+1685705045706	Delete element
+1685705255962	Delete element
+1685713651303	Rename method 'takeScreenShotOnFailure'
+1685713928071	Delete elements
+1685714214287	Delete elements
+1685714341334	Rename compilation unit 'Formatter.java'
+1685715232064	Delete elements
+1685715435336	Rename type 'TextFormatter'

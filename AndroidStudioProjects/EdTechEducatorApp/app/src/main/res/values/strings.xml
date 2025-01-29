@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">EdTech Educator App</string>
+    <string name="loginDesc">We will send you verification code on the entered mobile number</string>
+    <string name="login_signup">Login/Signup</string>
+    <string name="otp_verification">OTP Verification</string>
+</resources>

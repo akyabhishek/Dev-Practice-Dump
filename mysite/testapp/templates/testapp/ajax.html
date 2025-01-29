@@ -1,0 +1,32 @@
+<script>
+    $("#btn-edit").click(function(){
+        console.log("Hello")
+    })
+$("#btn-save").click(function(){
+    let nm=$("#nameid").val();
+    let em=$("#emailid").val();
+    let pw=$("#passwordid").val();
+    let csr=$("input[name='csrfmiddlewaretoken']").val();
+    if(nm==""){
+        console.log("Please Enter your name")
+    }
+    else if(em==""){
+        console.log("Please Enter your email")
+    }
+    else if(pw==""){
+        console.log("Please Enter your password")
+    }
+    else{
+        mydata ={name:nm,email:em,password:pw,csrfmiddlewaretoken:csr};
+        $.ajax({
+            url:"{% url 'save' %}",
+            method:"POST",
+            data:mydata,
+            success:function(data){
+                alert(data);
+            },
+        })
+    }
+})
+
+</script>
