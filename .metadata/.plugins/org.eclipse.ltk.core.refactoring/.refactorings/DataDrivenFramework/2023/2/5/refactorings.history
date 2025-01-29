@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Copy element &apos;drivers&apos; to &apos;SeleniumPOMFramework/src/test/resources&apos;&#x0D;&#x0A;- Original project: &apos;DataDrivenFramework&apos;&#x0D;&#x0A;- Destination element: &apos;SeleniumPOMFramework/src/test/resources&apos;&#x0D;&#x0A;- Original element: &apos;drivers&apos;" description="Copy folder" destination="=SeleniumPOMFramework/src\/test\/resources=/maven.pomderived=/true=/=/test=/true=/" element1="src/test/resources/drivers" files="0" flags="589830" folders="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1675511500695" units="0" version="1.0"/>
-</session>

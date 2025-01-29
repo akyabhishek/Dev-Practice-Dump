@@ -1,3 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;Coursera&apos;" deleteContents="false" description="Delete resource &apos;Coursera&apos;" element1="/Coursera" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1687584934471"/>&#x0A;<refactoring comment="Rename resource &apos;Coursera&apos; to &apos;Cognizant_major&apos;" description="Rename resource &apos;Coursera&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/Coursera" name="Cognizant_major" stamp="1687584977248" updateReferences="true"/>
-</session>
